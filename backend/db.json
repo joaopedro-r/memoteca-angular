@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Nescau é melhor q Toddy.",
+      "autoria": "João Pedro",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Ganhar em dolar",
+      "autoria": "João Pedro",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 4,
+      "conteudo": "Vamos ver se voce funciona mesmo. Pq assim eu acho q aquele tal de threads vai ser flopado demais",
+      "autoria": "Eu msm ué",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "conteudo": "tese",
+      "autoria": "asdasd",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "mais um",
+      "autoria": "asdasd",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "Vai da bom",
+      "autoria": "euzin",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 7
+    },
+    {
+      "conteudo": "e gora sera q vai aparecer",
+      "autoria": "eu de novo",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "conteudo": "O vincent e bonito demais",
+      "autoria": "João Vincent",
+      "modelo": "modelo3",
+      "favorito": false
+    }
+  ]
+}
